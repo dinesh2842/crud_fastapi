@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/238f07ab-0f31-49ef-b968-f5aa2d308523)create a virtualenvironment (optional)
+create a virtualenvironment (optional)
 install fastapi using pip install fastapi
 and install a web sever pip install uvicorn
 myapi2.py : this is a api for students details with crud operations and the outputs are stored in a json file in your directory
