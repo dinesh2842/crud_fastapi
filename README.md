@@ -20,10 +20,12 @@ remove the comma in the last object because it will throw a error
 now we'll see the GET method which will retrieve a particular record with student_id
 ![image](https://github.com/user-attachments/assets/47e246c8-7e88-4e9e-a103-2556a5469b57)
 
-in the home path we will show all the students
-
 at last we will delete a particular record using student_id 
 ![image](https://github.com/user-attachments/assets/9f53b78c-ab41-4d8a-b267-d0fbab5670c5)
+
+Now we can see all the students using GET method 
+![image](https://github.com/user-attachments/assets/991f7988-c164-4845-95be-e0befa54fd37)
+
 
 
 
